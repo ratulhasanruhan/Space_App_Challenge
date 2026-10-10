@@ -34,9 +34,9 @@ test('skyblink complete e2e flow', async ({ page }) => {
   await expect(page.locator('text=Detective Mode')).toBeVisible();
   
   // Click candidate
-  const candidateBtn = page.locator('button', { hasText: 'C001' });
+  const candidateBtn = page.locator('button', { hasText: 'F_MOVER_1.25_0' });
   await candidateBtn.click();
-  await expect(page.locator('text=Details: C001')).toBeVisible();
+  await expect(page.locator('text=Details: F_MOVER_1.25_0')).toBeVisible();
 
   // Check spectrum
   await expect(page.locator('text=Spectrum Analysis')).toBeVisible();

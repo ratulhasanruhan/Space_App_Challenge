@@ -13,6 +13,6 @@
 - Data Generation: DONE (Re-implemented to read `config/fields/*.yaml`)
 - Pipeline: DONE (Core steps implemented with synthetic data)
 - WCS Adapter: DONE (Fallback implemented for AppLocker issues)
-- Frontend: NOT STARTED (Pending Phase 7)
+- Frontend: DEMO READY (stories, blink viewer, physics lab, limits chart, Sky Academy)
 - Verifier: DONE (Rewritten in `verify.ps1` and `verify.sh`)
 - Tests: DONE (16/16 tests passing)

@@ -42,6 +42,7 @@ graph TD
 - **NEW: Localized Sphere Mapping (Geolocation)**: The application requests the user's current physical geolocation. It then calculates their local zenith and visible celestial sphere, automatically orienting the SPHEREx datasets to display the exact infrared sky directly above the user's real-world location.
 - **3-Way Viewer**: Smooth WebGL-powered Blink, Swipe, and Difference viewing modes.
 - **Follow-an-Object**: Ephemeris-forced tracking for known comets (e.g., 3I/ATLAS) and asteroids.
+- **Sky Academy**: Six classroom missions with XP, streaks, badges, and ranks. A field case files from Detective mode. The lesson ends on an honest Planet X limit, not a fake detection.
 
 ---
 
